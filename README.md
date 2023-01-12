@@ -13,6 +13,10 @@ WPF播放apng图片示例，使用ImoutoRebirth.Navigator.ApngWpfPlayer开源控
 
 请打开项目根目录下 video/WPF-apng-ApngWpfPlayer.mp4 查看效果
 
+# 兼容情况
+
+.Net6,.Net7可以兼容；.NetFramework 不兼容
+
 
 # ApngWpfPlayer官网
 
